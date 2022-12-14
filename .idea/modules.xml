@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW1SQL.iml" filepath="$PROJECT_DIR$/.idea/HW1SQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/coursework2_source/.idea/course2.iml" filepath="$PROJECT_DIR$/../pythonProject/coursework2_source/.idea/course2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/lesson14-and-tests/.idea/lesson14-and-tests.iml" filepath="$PROJECT_DIR$/../pythonProject/lesson14-and-tests/.idea/lesson14-and-tests.iml" />
+    </modules>
+  </component>
+</project>
